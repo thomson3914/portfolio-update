@@ -16,7 +16,7 @@ The app can be found by clicking [here!](https://thomson3914.github.io/portfolio
 	"js/modernizr.js" 
 	"js/placeholders.min.js" 
 	"js/script.js" 
-	"https://maps.googleapis.com/maps/api/js?key=AIzaSyA-gC8ZZTnj7f7RjmWyPEYVR1QJNiA38r8&libraries=places&callback=initMap"
+	"https://maps.googleapis.com/maps/api/js?key=#"
 
 ### Casscading Style Sheets
     "css/bootstrap.css" 
