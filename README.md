@@ -18,7 +18,7 @@ The app can be found by clicking [here!](https://thomson3914.github.io/portfolio
 	"js/script.js" 
 	"https://maps.googleapis.com/maps/api/js?key=#"
 
-### Casscading Style Sheets
+### Cascading Style Sheets
     "css/bootstrap.css" 
 	"css/owl-carousel/owl.carousel.css"
 	"css/owl-carousel/owl.theme.css"
@@ -27,3 +27,6 @@ The app can be found by clicking [here!](https://thomson3914.github.io/portfolio
 	"css/fontello.css" 
 	"css/base.css" 
 	"css/main.css" 
+
+### Web Theme & Template
+https://themeforest.net/item/split-personal-cvvcard-template/12915369?s_rank=2
